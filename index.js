@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const BOLD = "\x1b[1m";
 const RESET = "\x1b[0m";
 const GREEN = "\x1b[32m";

@@ -1,6 +1,6 @@
 {
   "name": "hello-ajay",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI, which print Ajay's profile info",
   "bin":{
     "hello-ajay":"index.js"
