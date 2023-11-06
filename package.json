@@ -1,0 +1,15 @@
+{
+  "name": "hello-ajay",
+  "version": "1.0.0",
+  "description": "CLI, which print Ajay's profile info",
+  "bin":{
+    "hello-ajay":"index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "github":"https://github.com/ajay-makvana/npx-hello-ajay",
+  "author": "Ajay Makvana",
+  "license": "MIT"
+}
